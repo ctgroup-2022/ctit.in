@@ -124,92 +124,92 @@ include("inc/menu.php")
     
     <tr>
       <th scope="row">1</th>
-      <td align="justify">EOA-CTIT-2004-05</td>
+      <td align="justify">LOI-CTIT-2008</td>
       <td></td>
       <td></td>
-      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2008-09.pdf" target=_blank>View PDF</td>
+      <td><a href="pdf/AICTE EOA/CTIT AICTE EOA ALL (1)/CTIT AICTE EOA ALL/LOI-CTIT 2008.pdf" target=_blank>View PDF</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td align="justify">EOA-CTIT-2005-06</td>
+      <td align="justify">EOA-CTIT-2008-09</td>
       <td></td>
       <td></td>
-      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2009-10 Revised.pdf" target=_blank>View PDF</td>
+      <td><a href="pdf/AICTE EOA/CTIT AICTE EOA ALL (1)/CTIT AICTE EOA ALL/EOA-CTIT-2008-09.pdf" target=_blank>View PDF</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td align="justify">EOA-CTIT-2006-07</td>
+      <td align="justify">EOA-CTIT-2009-10</td>
+      <td></td>
+      <td></td>
+      <td><a href="pdf/AICTE EOA/CTIT AICTE EOA ALL (1)/CTIT AICTE EOA ALL/EOA-CTIT-2009-10 Revised.pdf" target=_blank>View PDF</td>
+    </tr>
+
+    <tr>
+      <th scope="row">4</th>
+      <td align="justify">EOA-CTIT-2010-11</td>
       <td></td>
       <td></td>
       <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2010-11.pdf" target=_blank>View PDF</td>
     </tr>
 
     <tr>
-      <th scope="row">4</th>
-      <td align="justify">EOA-CTIT-2007-08</td>
+      <th scope="row">5</th>
+      <td align="justify">EOA-CTIT-2011-12</td>
       <td></td>
       <td></td>
       <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2011-12.pdf" target=_blank>View PDF</td>
     </tr>
 
     <tr>
-      <th scope="row">5</th>
-      <td align="justify">EOA-CTIT-2008-09</td>
+      <th scope="row">6</th>
+      <td align="justify">EOA-CTIT-2012-13</td>
       <td></td>
       <td></td>
       <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2012-13.pdf" target=_blank>View PDF</td>
     </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td align="justify">EOA-CTIT-2013-14</td>
+      <td></td>
+      <td></td>
+      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2013-14.pdf" target=_blank>View PDF</td>
+    </tr>
 
     <tr>
-      <th scope="row">6</th>
-      <td align="justify">EOA-CTIT-2009-10</td>
+      <th scope="row">8</th>
+      <td align="justify">EOA-CTIT-2014-15</td>
       <td></td>
       <td></td>
       <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2014-15.pdf" target=_blank>View PDF</td>
     </tr>
+
     <tr>
-      <th scope="row">7</th>
-      <td align="justify">EOA-CTIT-2010-11</td>
+      <th scope="row">9</th>
+      <td align="justify">EOA-CTIT-2015-16</td>
       <td></td>
       <td></td>
       <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2015-16.PDF" target=_blank>View PDF</td>
     </tr>
 
     <tr>
-      <th scope="row">8</th>
-      <td align="justify">EOA-CTIT-2011-12</td>
-      <td></td>
-      <td></td>
-      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2016-17.pdf" target=_blank>View PDF</td>
-    </tr>
-
-    <tr>
-      <th scope="row">9</th>
-      <td align="justify">EOA-CTIT-2012-13</td>
-      <td></td>
-      <td></td>
-      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2016-17.pdf" target=_blank>View PDF</td>
-    </tr>
-
-    <tr>
       <th scope="row">10</th>
-      <td align="justify">EOA-CTIT-2013-14</td>
+      <td align="justify">EOA-CTIT-2016-17</td>
+      <td></td>
+      <td></td>
+      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2016-17.pdf" target=_blank>View PDF</td>
+    </tr>
+
+    <tr>
+      <th scope="row">11</th>
+      <td align="justify">EOA-CTIT-2017-18</td>
       <td></td>
       <td></td>
       <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2017-18.pdf" target=_blank>View PDF</td>
     </tr>
 
     <tr>
-      <th scope="row">11</th>
-      <td align="justify">EOA-CTIT-2014-15</td>
-      <td></td>
-      <td></td>
-      <td><a href="pdf\AICTE APPROVALS\EOA-CTIEMT-2014-15.PDF" target=_blank>View PDF</td>
-    </tr>
-
-    <tr>
       <th scope="row">12</th>
-      <td align="justify">EOA-CTIT-2015-16</td>
+      <td align="justify">EOA-CTIT-2018-19</td>
       <td></td>
       <td></td>
       <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2018-19.PDF" target=_blank>View PDF</td>
@@ -217,7 +217,7 @@ include("inc/menu.php")
 
     <tr>
       <th scope="row">13</th>
-      <td align="justify">EOA-CTIT-2016-17</td>
+      <td align="justify">EOA-CTIT-2019-20</td>
       <td></td>
       <td></td>
       <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2019-20.PDF" target=_blank>View PDF</td>
@@ -225,26 +225,26 @@ include("inc/menu.php")
 
     <tr>
       <th scope="row">14</th>
-      <td align="justify">EOA-CTIT-2017-18</td>
+      <td align="justify">EOA-CTIT-2020-21</td>
       <td></td>
       <td></td>
-      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2021-22.PDF" target=_blank>View PDF</td>
+      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2020-21.PDF" target=_blank>View PDF</td>
     </tr>
 
     <tr>
       <th scope="row">15</th>
-      <td align="justify">EOA-CTIT-2018-19</td>
+      <td align="justify">EOA-CTIT-2021-22</td>
       <td></td>
       <td></td>
-      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2024-25 Corrigendum.pdf" target=_blank>View PDF</td>
+      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2021-22.PDF" target=_blank>View PDF</td>
     </tr>
     
     <tr>
       <th scope="row">16</th>
-      <td align="justify">EOA-CTIT-2019-20</td>
+      <td align="justify">EOA-CTIT-2024-25</td>
       <td></td>
       <td></td>
-      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\LOI-CTIT 2008.pdf" target=_blank>View PDF</td>
+      <td><a href="pdf\AICTE EOA\CTIT AICTE EOA ALL (1)\CTIT AICTE EOA ALL\EOA-CTIT-2024-25 Corrigendum.pdf" target=_blank>View PDF</td>
     </tr>
 <!-- 
     <tr>
