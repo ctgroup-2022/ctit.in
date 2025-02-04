@@ -1,20 +1,15 @@
----
-# .cpanel.yml
-# This file is used to configure cPanel settings for your HTML project.
-
-# Specify the deployment settings
 deployment:
   tasks:
     - export DEPLOY_ENV=production
-    - rsync -avz --delete public_html/ user@server:/path/to/deploy
+    - /bin/cp -r * public_html/  # Copy all files to public_html
+    - find public_html/ -type f -exec chmod 644 {} \;  # Set correct file permissions
+    - find public_html/ -type d -exec chmod 755 {} \;  # Set correct folder permissions
 
-# Specify the cron jobs
 cron:
   jobs:
     - schedule: "0 0 * * *"
-      command: "/usr/bin/php /path/to/script.php"
+      command: "/usr/bin/php /home/your_user/public_html/path/to/script.php"
 
-# Specify the environment variables
 env:
   variables:
     - name: API_KEY
