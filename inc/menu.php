@@ -13,7 +13,7 @@
         <div class="nav-container">
             <div>
                 <a href="#" class="logo">
-                    <img src="img/ct23logo.png" alt="CTIEMT Logo" class="logo-image">
+                    <img src="img/CTIT.png" alt="CTIEMT Logo" class="logo-image">
                 </a>
             </div>
 
